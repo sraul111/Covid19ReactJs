@@ -17,3 +17,11 @@ margin : 0 2% !important
 }
 
 
+@media (max-width:770px) {
+     .card {
+
+          margin: 2% 0 !important;
+     }
+}
+
+
